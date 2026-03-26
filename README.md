@@ -24,4 +24,4 @@ In industrial automation, unexpected downtime can be costly. This project provid
 - `dashboards/`: Screenshots or links to Power BI reports.
 
 ---
-**Contact:** [Your Name] | [Your LinkedIn Link]
+**Contact:**  Arya| https://www.linkedin.com/in/arya-sreejith-b744553b8/
