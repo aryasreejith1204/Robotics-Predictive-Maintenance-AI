@@ -1,6 +1,6 @@
 # 🤖 Robotics Predictive Maintenance with Deep Learning (LSTM)
 
-This project predicts industrial robot failure using sensor data analysis and AI.
+This project focuses on the predictive maintenance of robotic systems by analyzing thermal data. Using Machine Learning and Deep Learning, it identifies overheating patterns to prevent hardware failure.
 
 ### 🌟 Key Highlights:
 - **Dataset:** 500 rows of synthetic sensor data (Temperature, Vibration, Work Hours).
